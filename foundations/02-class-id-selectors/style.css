@@ -2,3 +2,13 @@
 background-color: hsl(316, 63%, 79%);
 font-family: Verdana, DejaVu Sans, sans-serif;
 }
+
+#btext{
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.fontsize{
+    font-size: 24px;
+
+}
